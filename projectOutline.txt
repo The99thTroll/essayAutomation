@@ -1,0 +1,10 @@
+Project Automation
+What I intent to solve - Essay Typing
+
+Steps to success:
+1) Find what type of paragraph to create
+2) Start with a topic sentence
+3) Fetch data for paragraph body
+4) Give a few sentences for details
+5) Drop a concluding sentence
+6) End program
